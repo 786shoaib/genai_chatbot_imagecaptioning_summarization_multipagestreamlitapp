@@ -72,7 +72,7 @@ PAGES = {
     "Welcome": display_welcome_page,  # Display welcome page
     "Chatbot": chatbot_page,  # Chatbot page function
     "Image Captioning": image_captioning_page,  # image captioning function
-    "Translation (TODO)": lambda: st.write("Translation (TODO)")  # Placeholder for translation
+    "Summarizer (TODO)": lambda: st.write("Summarizer (TODO)")  # Placeholder for translation
 }
 
 # Page navigation
